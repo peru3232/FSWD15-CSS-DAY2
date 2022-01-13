@@ -1,0 +1,61 @@
+.workmate {
+  width: 450px;
+  height: 600px;
+  box-shadow: 3px 3px 8px 5px lightgrey;
+  position: absolute;
+  left: 10px;
+}
+
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+  position: absolute;
+  left: 35px;
+}
+
+#eyes2{
+  width: 170px;
+  position: absolute;
+  top: 170px;
+  left: 145px;  
+}
+
+#hair1 {
+  width: 320px;
+  position: absolute;
+  top: -20px;
+  left: 75px;  
+}
+
+#nose2 {
+  width: 100px;
+  position: absolute;
+  top: 220px;
+  left: 180px;
+  z-index: 1;
+}
+
+#mouth2 {
+  width: 100px;
+  position: absolute;
+  bottom: 210px;
+  left: 190px;
+  z-index: 1;
+}
+
+#ears2{
+  width: 450px;
+  position: absolute;
+  top: 150px;
+  left: 0px;  
+}
+
+.unused {
+  width: 450px;
+  position: absolute;
+  bottom: 0px;
+  background-color: lightgray;
+  text-align: center;
+}
